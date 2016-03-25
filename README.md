@@ -10,3 +10,8 @@ sudo apt-get install mplayer
 
 ## Install pytz
 sudo easy_install pytz
+
+## Download the Code
+git clone https://github.com/Lee-Kevin/14.WeatherReportOnPi3
+
+cd 14.WeatherReportOnPi3/code/weatherReport
