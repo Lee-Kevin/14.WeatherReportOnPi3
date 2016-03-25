@@ -1,5 +1,5 @@
 
-#introduce
+#Introduce
 This is a weather voice assistant on Raspberry Pi3
 
 #Get Started
