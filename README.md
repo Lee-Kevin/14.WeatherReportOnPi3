@@ -15,3 +15,5 @@ sudo easy_install pytz
 git clone https://github.com/Lee-Kevin/14.WeatherReportOnPi3
 
 cd 14.WeatherReportOnPi3/code/weatherReport
+chmod +x weather.py
+./weather.py
